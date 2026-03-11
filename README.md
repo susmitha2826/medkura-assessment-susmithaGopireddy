@@ -1,6 +1,6 @@
 # MedKura Health — Fullstack Engineer Assessment
 
-> Submitted by: [Your Name]
+> Submitted by: susmithaGopireddy
 
 ---
 
